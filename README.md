@@ -1,0 +1,2 @@
+# MOVIE_DETAILS
+Hello, its me Arun again..... This time I got you guys a python code which would store your favourite movie details like its name, director and year of release. With the help of code you can add a movie details into storage or view all your movie details in your storage and even search the movie in storage either from name or director or year of the movie. Hope you would like it :)
